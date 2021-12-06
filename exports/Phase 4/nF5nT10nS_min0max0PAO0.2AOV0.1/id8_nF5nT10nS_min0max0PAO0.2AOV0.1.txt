@@ -1,0 +1,217 @@
+id:8
+num_rows:10
+num_cols:10
+wrap:False
+num_features:5
+num_traits:10
+onlineness:0
+prop_agent_online:0.2
+agent_online_val:0.1
+agents_online:True
+sioa_descrips:[('min', 0), ('max', 0)]
+do_display:False
+online_agent_coords:{(0, 6): 0.1, (1, 1): 0.1, (1, 2): 0.1, (2, 3): 0.1, (2, 7): 0.1, (3, 8): 0.1, (3, 9): 0.1, (4, 9): 0.1, (5, 0): 0.1, (5, 1): 0.1, (5, 3): 0.1, (5, 6): 0.1, (5, 9): 0.1, (6, 3): 0.1, (6, 6): 0.1, (7, 0): 0.1, (8, 4): 0.1, (8, 9): 0.1, (9, 5): 0.1}
+ordered_online_agent_coords:[(0, 6), (1, 1), (1, 2), (2, 3), (2, 7), (3, 8), (3, 9), (4, 9), (5, 0), (5, 1), (5, 3), (5, 6), (5, 9), (6, 3), (6, 6), (7, 0), (8, 4), (8, 9), (9, 5)]
+online_weights:[0.05263157894736841, 0.05263157894736841, 0.05263157894736841, 0.05263157894736841, 0.05263157894736841, 0.05263157894736841, 0.05263157894736841, 0.05263157894736841, 0.05263157894736841, 0.05263157894736841, 0.05263157894736841, 0.05263157894736841, 0.05263157894736841, 0.05263157894736841, 0.05263157894736841, 0.05263157894736841, 0.05263157894736841, 0.05263157894736841, 0.05263157894736841]
+total_agent_onlineness:1.9000000000000006
+total_sioa_onlineness:0
+Row: 0 Col: 0, ID: 0, num_features: 5, num_traits: 10, onlineness: 0, SIOA: False
+	Feature vector: [7, 2, 1, 5, 3]
+Row: 0 Col: 1, ID: 1, num_features: 5, num_traits: 10, onlineness: 0, SIOA: False
+	Feature vector: [7, 2, 1, 5, 3]
+Row: 0 Col: 2, ID: 2, num_features: 5, num_traits: 10, onlineness: 0, SIOA: False
+	Feature vector: [7, 2, 1, 5, 3]
+Row: 0 Col: 3, ID: 3, num_features: 5, num_traits: 10, onlineness: 0, SIOA: False
+	Feature vector: [7, 2, 1, 5, 3]
+Row: 0 Col: 4, ID: 4, num_features: 5, num_traits: 10, onlineness: 0, SIOA: False
+	Feature vector: [7, 2, 1, 5, 3]
+Row: 0 Col: 5, ID: 5, num_features: 5, num_traits: 10, onlineness: 0, SIOA: False
+	Feature vector: [7, 2, 1, 5, 3]
+Row: 0 Col: 6, ID: 6, num_features: 5, num_traits: 10, onlineness: 0.1, SIOA: False
+	Feature vector: [7, 2, 1, 5, 3]
+Row: 0 Col: 7, ID: 7, num_features: 5, num_traits: 10, onlineness: 0, SIOA: False
+	Feature vector: [7, 2, 1, 5, 3]
+Row: 0 Col: 8, ID: 8, num_features: 5, num_traits: 10, onlineness: 0, SIOA: False
+	Feature vector: [7, 2, 1, 5, 3]
+Row: 0 Col: 9, ID: 9, num_features: 5, num_traits: 10, onlineness: 0, SIOA: False
+	Feature vector: [7, 2, 1, 5, 3]
+Row: 1 Col: 0, ID: 10, num_features: 5, num_traits: 10, onlineness: 0, SIOA: False
+	Feature vector: [7, 2, 1, 5, 3]
+Row: 1 Col: 1, ID: 11, num_features: 5, num_traits: 10, onlineness: 0.1, SIOA: False
+	Feature vector: [7, 2, 1, 5, 3]
+Row: 1 Col: 2, ID: 12, num_features: 5, num_traits: 10, onlineness: 0.1, SIOA: False
+	Feature vector: [7, 2, 1, 5, 3]
+Row: 1 Col: 3, ID: 13, num_features: 5, num_traits: 10, onlineness: 0, SIOA: False
+	Feature vector: [7, 2, 1, 5, 3]
+Row: 1 Col: 4, ID: 14, num_features: 5, num_traits: 10, onlineness: 0, SIOA: False
+	Feature vector: [7, 2, 1, 5, 3]
+Row: 1 Col: 5, ID: 15, num_features: 5, num_traits: 10, onlineness: 0, SIOA: False
+	Feature vector: [7, 2, 1, 5, 3]
+Row: 1 Col: 6, ID: 16, num_features: 5, num_traits: 10, onlineness: 0, SIOA: False
+	Feature vector: [7, 2, 1, 5, 3]
+Row: 1 Col: 7, ID: 17, num_features: 5, num_traits: 10, onlineness: 0, SIOA: False
+	Feature vector: [7, 2, 1, 5, 3]
+Row: 1 Col: 8, ID: 18, num_features: 5, num_traits: 10, onlineness: 0, SIOA: False
+	Feature vector: [7, 2, 1, 5, 3]
+Row: 1 Col: 9, ID: 19, num_features: 5, num_traits: 10, onlineness: 0, SIOA: False
+	Feature vector: [7, 2, 1, 5, 3]
+Row: 2 Col: 0, ID: 20, num_features: 5, num_traits: 10, onlineness: 0, SIOA: False
+	Feature vector: [7, 2, 1, 5, 3]
+Row: 2 Col: 1, ID: 21, num_features: 5, num_traits: 10, onlineness: 0, SIOA: False
+	Feature vector: [7, 2, 1, 5, 3]
+Row: 2 Col: 2, ID: 22, num_features: 5, num_traits: 10, onlineness: 0, SIOA: False
+	Feature vector: [7, 2, 1, 5, 3]
+Row: 2 Col: 3, ID: 23, num_features: 5, num_traits: 10, onlineness: 0.1, SIOA: False
+	Feature vector: [7, 2, 1, 5, 3]
+Row: 2 Col: 4, ID: 24, num_features: 5, num_traits: 10, onlineness: 0, SIOA: False
+	Feature vector: [7, 2, 1, 5, 3]
+Row: 2 Col: 5, ID: 25, num_features: 5, num_traits: 10, onlineness: 0, SIOA: False
+	Feature vector: [7, 2, 1, 5, 3]
+Row: 2 Col: 6, ID: 26, num_features: 5, num_traits: 10, onlineness: 0, SIOA: False
+	Feature vector: [7, 2, 1, 5, 3]
+Row: 2 Col: 7, ID: 27, num_features: 5, num_traits: 10, onlineness: 0.1, SIOA: False
+	Feature vector: [7, 2, 1, 5, 3]
+Row: 2 Col: 8, ID: 28, num_features: 5, num_traits: 10, onlineness: 0, SIOA: False
+	Feature vector: [7, 2, 1, 5, 3]
+Row: 2 Col: 9, ID: 29, num_features: 5, num_traits: 10, onlineness: 0, SIOA: False
+	Feature vector: [7, 2, 1, 5, 3]
+Row: 3 Col: 0, ID: 30, num_features: 5, num_traits: 10, onlineness: 0, SIOA: False
+	Feature vector: [7, 2, 1, 5, 3]
+Row: 3 Col: 1, ID: 31, num_features: 5, num_traits: 10, onlineness: 0, SIOA: False
+	Feature vector: [7, 2, 1, 5, 3]
+Row: 3 Col: 2, ID: 32, num_features: 5, num_traits: 10, onlineness: 0, SIOA: False
+	Feature vector: [7, 2, 1, 5, 3]
+Row: 3 Col: 3, ID: 33, num_features: 5, num_traits: 10, onlineness: 0, SIOA: False
+	Feature vector: [7, 2, 1, 5, 3]
+Row: 3 Col: 4, ID: 34, num_features: 5, num_traits: 10, onlineness: 0, SIOA: False
+	Feature vector: [7, 2, 1, 5, 3]
+Row: 3 Col: 5, ID: 35, num_features: 5, num_traits: 10, onlineness: 0, SIOA: False
+	Feature vector: [7, 2, 1, 5, 3]
+Row: 3 Col: 6, ID: 36, num_features: 5, num_traits: 10, onlineness: 0, SIOA: False
+	Feature vector: [7, 2, 1, 5, 3]
+Row: 3 Col: 7, ID: 37, num_features: 5, num_traits: 10, onlineness: 0, SIOA: False
+	Feature vector: [7, 2, 1, 5, 3]
+Row: 3 Col: 8, ID: 38, num_features: 5, num_traits: 10, onlineness: 0.1, SIOA: False
+	Feature vector: [7, 2, 1, 5, 3]
+Row: 3 Col: 9, ID: 39, num_features: 5, num_traits: 10, onlineness: 0.1, SIOA: False
+	Feature vector: [7, 2, 1, 5, 3]
+Row: 4 Col: 0, ID: 40, num_features: 5, num_traits: 10, onlineness: 0, SIOA: False
+	Feature vector: [7, 2, 1, 5, 3]
+Row: 4 Col: 1, ID: 41, num_features: 5, num_traits: 10, onlineness: 0, SIOA: False
+	Feature vector: [7, 2, 1, 5, 3]
+Row: 4 Col: 2, ID: 42, num_features: 5, num_traits: 10, onlineness: 0, SIOA: False
+	Feature vector: [7, 2, 1, 5, 3]
+Row: 4 Col: 3, ID: 43, num_features: 5, num_traits: 10, onlineness: 0, SIOA: False
+	Feature vector: [7, 2, 1, 5, 3]
+Row: 4 Col: 4, ID: 44, num_features: 5, num_traits: 10, onlineness: 0, SIOA: False
+	Feature vector: [7, 2, 1, 5, 3]
+Row: 4 Col: 5, ID: 45, num_features: 5, num_traits: 10, onlineness: 0, SIOA: False
+	Feature vector: [7, 2, 1, 5, 3]
+Row: 4 Col: 6, ID: 46, num_features: 5, num_traits: 10, onlineness: 0, SIOA: False
+	Feature vector: [7, 2, 1, 5, 3]
+Row: 4 Col: 7, ID: 47, num_features: 5, num_traits: 10, onlineness: 0, SIOA: False
+	Feature vector: [7, 2, 1, 5, 3]
+Row: 4 Col: 8, ID: 48, num_features: 5, num_traits: 10, onlineness: 0, SIOA: False
+	Feature vector: [7, 2, 1, 5, 3]
+Row: 4 Col: 9, ID: 49, num_features: 5, num_traits: 10, onlineness: 0.1, SIOA: False
+	Feature vector: [7, 2, 1, 5, 3]
+Row: 5 Col: 0, ID: 50, num_features: 5, num_traits: 10, onlineness: 0.1, SIOA: False
+	Feature vector: [7, 2, 1, 5, 3]
+Row: 5 Col: 1, ID: 51, num_features: 5, num_traits: 10, onlineness: 0.1, SIOA: False
+	Feature vector: [7, 2, 1, 5, 3]
+Row: 5 Col: 2, ID: 52, num_features: 5, num_traits: 10, onlineness: 0, SIOA: False
+	Feature vector: [7, 2, 1, 5, 3]
+Row: 5 Col: 3, ID: 53, num_features: 5, num_traits: 10, onlineness: 0.1, SIOA: False
+	Feature vector: [7, 2, 1, 5, 3]
+Row: 5 Col: 4, ID: 54, num_features: 5, num_traits: 10, onlineness: 0, SIOA: False
+	Feature vector: [7, 2, 1, 5, 3]
+Row: 5 Col: 5, ID: 55, num_features: 5, num_traits: 10, onlineness: 0, SIOA: False
+	Feature vector: [7, 2, 1, 5, 3]
+Row: 5 Col: 6, ID: 56, num_features: 5, num_traits: 10, onlineness: 0.1, SIOA: False
+	Feature vector: [7, 2, 1, 5, 3]
+Row: 5 Col: 7, ID: 57, num_features: 5, num_traits: 10, onlineness: 0, SIOA: False
+	Feature vector: [7, 2, 1, 5, 3]
+Row: 5 Col: 8, ID: 58, num_features: 5, num_traits: 10, onlineness: 0, SIOA: False
+	Feature vector: [7, 2, 1, 5, 3]
+Row: 5 Col: 9, ID: 59, num_features: 5, num_traits: 10, onlineness: 0.1, SIOA: False
+	Feature vector: [7, 2, 1, 5, 3]
+Row: 6 Col: 0, ID: 60, num_features: 5, num_traits: 10, onlineness: 0, SIOA: False
+	Feature vector: [7, 2, 1, 5, 3]
+Row: 6 Col: 1, ID: 61, num_features: 5, num_traits: 10, onlineness: 0, SIOA: False
+	Feature vector: [7, 2, 1, 5, 3]
+Row: 6 Col: 2, ID: 62, num_features: 5, num_traits: 10, onlineness: 0, SIOA: False
+	Feature vector: [7, 2, 1, 5, 3]
+Row: 6 Col: 3, ID: 63, num_features: 5, num_traits: 10, onlineness: 0.1, SIOA: False
+	Feature vector: [7, 2, 1, 5, 3]
+Row: 6 Col: 4, ID: 64, num_features: 5, num_traits: 10, onlineness: 0, SIOA: False
+	Feature vector: [7, 2, 1, 5, 3]
+Row: 6 Col: 5, ID: 65, num_features: 5, num_traits: 10, onlineness: 0, SIOA: False
+	Feature vector: [7, 2, 1, 5, 3]
+Row: 6 Col: 6, ID: 66, num_features: 5, num_traits: 10, onlineness: 0.1, SIOA: False
+	Feature vector: [7, 2, 1, 5, 3]
+Row: 6 Col: 7, ID: 67, num_features: 5, num_traits: 10, onlineness: 0, SIOA: False
+	Feature vector: [7, 2, 1, 5, 3]
+Row: 6 Col: 8, ID: 68, num_features: 5, num_traits: 10, onlineness: 0, SIOA: False
+	Feature vector: [7, 2, 1, 5, 3]
+Row: 6 Col: 9, ID: 69, num_features: 5, num_traits: 10, onlineness: 0, SIOA: False
+	Feature vector: [7, 2, 1, 5, 3]
+Row: 7 Col: 0, ID: 70, num_features: 5, num_traits: 10, onlineness: 0.1, SIOA: False
+	Feature vector: [7, 2, 1, 5, 3]
+Row: 7 Col: 1, ID: 71, num_features: 5, num_traits: 10, onlineness: 0, SIOA: False
+	Feature vector: [7, 2, 1, 5, 3]
+Row: 7 Col: 2, ID: 72, num_features: 5, num_traits: 10, onlineness: 0, SIOA: False
+	Feature vector: [7, 2, 1, 5, 3]
+Row: 7 Col: 3, ID: 73, num_features: 5, num_traits: 10, onlineness: 0, SIOA: False
+	Feature vector: [7, 2, 1, 5, 3]
+Row: 7 Col: 4, ID: 74, num_features: 5, num_traits: 10, onlineness: 0, SIOA: False
+	Feature vector: [7, 2, 1, 5, 3]
+Row: 7 Col: 5, ID: 75, num_features: 5, num_traits: 10, onlineness: 0, SIOA: False
+	Feature vector: [7, 2, 1, 5, 3]
+Row: 7 Col: 6, ID: 76, num_features: 5, num_traits: 10, onlineness: 0, SIOA: False
+	Feature vector: [7, 2, 1, 5, 3]
+Row: 7 Col: 7, ID: 77, num_features: 5, num_traits: 10, onlineness: 0, SIOA: False
+	Feature vector: [7, 2, 1, 5, 3]
+Row: 7 Col: 8, ID: 78, num_features: 5, num_traits: 10, onlineness: 0, SIOA: False
+	Feature vector: [7, 2, 1, 5, 3]
+Row: 7 Col: 9, ID: 79, num_features: 5, num_traits: 10, onlineness: 0, SIOA: False
+	Feature vector: [7, 2, 1, 5, 3]
+Row: 8 Col: 0, ID: 80, num_features: 5, num_traits: 10, onlineness: 0, SIOA: False
+	Feature vector: [7, 2, 1, 5, 3]
+Row: 8 Col: 1, ID: 81, num_features: 5, num_traits: 10, onlineness: 0, SIOA: False
+	Feature vector: [7, 2, 1, 5, 3]
+Row: 8 Col: 2, ID: 82, num_features: 5, num_traits: 10, onlineness: 0, SIOA: False
+	Feature vector: [7, 2, 1, 5, 3]
+Row: 8 Col: 3, ID: 83, num_features: 5, num_traits: 10, onlineness: 0, SIOA: False
+	Feature vector: [7, 2, 1, 5, 3]
+Row: 8 Col: 4, ID: 84, num_features: 5, num_traits: 10, onlineness: 0.1, SIOA: False
+	Feature vector: [7, 2, 1, 5, 3]
+Row: 8 Col: 5, ID: 85, num_features: 5, num_traits: 10, onlineness: 0, SIOA: False
+	Feature vector: [7, 2, 1, 5, 3]
+Row: 8 Col: 6, ID: 86, num_features: 5, num_traits: 10, onlineness: 0, SIOA: False
+	Feature vector: [7, 2, 1, 5, 3]
+Row: 8 Col: 7, ID: 87, num_features: 5, num_traits: 10, onlineness: 0, SIOA: False
+	Feature vector: [7, 2, 1, 5, 3]
+Row: 8 Col: 8, ID: 88, num_features: 5, num_traits: 10, onlineness: 0, SIOA: False
+	Feature vector: [7, 2, 1, 5, 3]
+Row: 8 Col: 9, ID: 89, num_features: 5, num_traits: 10, onlineness: 0.1, SIOA: False
+	Feature vector: [7, 2, 1, 5, 3]
+Row: 9 Col: 0, ID: 90, num_features: 5, num_traits: 10, onlineness: 0, SIOA: False
+	Feature vector: [7, 2, 1, 5, 3]
+Row: 9 Col: 1, ID: 91, num_features: 5, num_traits: 10, onlineness: 0, SIOA: False
+	Feature vector: [7, 2, 1, 5, 3]
+Row: 9 Col: 2, ID: 92, num_features: 5, num_traits: 10, onlineness: 0, SIOA: False
+	Feature vector: [7, 2, 1, 5, 3]
+Row: 9 Col: 3, ID: 93, num_features: 5, num_traits: 10, onlineness: 0, SIOA: False
+	Feature vector: [7, 2, 1, 5, 3]
+Row: 9 Col: 4, ID: 94, num_features: 5, num_traits: 10, onlineness: 0, SIOA: False
+	Feature vector: [7, 2, 1, 5, 3]
+Row: 9 Col: 5, ID: 95, num_features: 5, num_traits: 10, onlineness: 0.1, SIOA: False
+	Feature vector: [7, 2, 1, 5, 3]
+Row: 9 Col: 6, ID: 96, num_features: 5, num_traits: 10, onlineness: 0, SIOA: False
+	Feature vector: [7, 2, 1, 5, 3]
+Row: 9 Col: 7, ID: 97, num_features: 5, num_traits: 10, onlineness: 0, SIOA: False
+	Feature vector: [7, 2, 1, 5, 3]
+Row: 9 Col: 8, ID: 98, num_features: 5, num_traits: 10, onlineness: 0, SIOA: False
+	Feature vector: [7, 2, 1, 5, 3]
+Row: 9 Col: 9, ID: 99, num_features: 5, num_traits: 10, onlineness: 0, SIOA: False
+	Feature vector: [7, 2, 1, 5, 3]

@@ -1,0 +1,206 @@
+numRows:10
+numCols:10
+wrap:False
+numFeatures:5
+numTraits:10
+onlineness:0
+ID: 0, numFeatures: 5
+	Feature vector: [1, 8, 10, 4, 1]
+ID: 1, numFeatures: 5
+	Feature vector: [1, 8, 10, 4, 1]
+ID: 2, numFeatures: 5
+	Feature vector: [1, 8, 10, 4, 1]
+ID: 3, numFeatures: 5
+	Feature vector: [1, 8, 10, 4, 1]
+ID: 4, numFeatures: 5
+	Feature vector: [1, 8, 10, 4, 1]
+ID: 5, numFeatures: 5
+	Feature vector: [1, 8, 10, 4, 1]
+ID: 6, numFeatures: 5
+	Feature vector: [1, 8, 10, 4, 1]
+ID: 7, numFeatures: 5
+	Feature vector: [1, 8, 10, 4, 1]
+ID: 8, numFeatures: 5
+	Feature vector: [1, 8, 10, 4, 1]
+ID: 9, numFeatures: 5
+	Feature vector: [1, 8, 10, 4, 1]
+ID: 10, numFeatures: 5
+	Feature vector: [1, 8, 10, 4, 1]
+ID: 11, numFeatures: 5
+	Feature vector: [1, 8, 10, 4, 1]
+ID: 12, numFeatures: 5
+	Feature vector: [1, 8, 10, 4, 1]
+ID: 13, numFeatures: 5
+	Feature vector: [1, 8, 10, 4, 1]
+ID: 14, numFeatures: 5
+	Feature vector: [1, 8, 10, 4, 1]
+ID: 15, numFeatures: 5
+	Feature vector: [1, 8, 10, 4, 1]
+ID: 16, numFeatures: 5
+	Feature vector: [1, 8, 10, 4, 1]
+ID: 17, numFeatures: 5
+	Feature vector: [1, 8, 10, 4, 1]
+ID: 18, numFeatures: 5
+	Feature vector: [1, 8, 10, 4, 1]
+ID: 19, numFeatures: 5
+	Feature vector: [1, 8, 10, 4, 1]
+ID: 20, numFeatures: 5
+	Feature vector: [1, 8, 10, 4, 1]
+ID: 21, numFeatures: 5
+	Feature vector: [1, 8, 10, 4, 1]
+ID: 22, numFeatures: 5
+	Feature vector: [1, 8, 10, 4, 1]
+ID: 23, numFeatures: 5
+	Feature vector: [1, 8, 10, 4, 1]
+ID: 24, numFeatures: 5
+	Feature vector: [1, 8, 10, 4, 1]
+ID: 25, numFeatures: 5
+	Feature vector: [1, 8, 10, 4, 1]
+ID: 26, numFeatures: 5
+	Feature vector: [1, 8, 10, 4, 1]
+ID: 27, numFeatures: 5
+	Feature vector: [1, 8, 10, 4, 1]
+ID: 28, numFeatures: 5
+	Feature vector: [1, 8, 10, 4, 1]
+ID: 29, numFeatures: 5
+	Feature vector: [1, 8, 10, 4, 1]
+ID: 30, numFeatures: 5
+	Feature vector: [1, 8, 10, 4, 1]
+ID: 31, numFeatures: 5
+	Feature vector: [1, 8, 10, 4, 1]
+ID: 32, numFeatures: 5
+	Feature vector: [1, 8, 10, 4, 1]
+ID: 33, numFeatures: 5
+	Feature vector: [1, 8, 10, 4, 1]
+ID: 34, numFeatures: 5
+	Feature vector: [1, 8, 10, 4, 1]
+ID: 35, numFeatures: 5
+	Feature vector: [1, 8, 10, 4, 1]
+ID: 36, numFeatures: 5
+	Feature vector: [3, 10, 2, 3, 10]
+ID: 37, numFeatures: 5
+	Feature vector: [1, 8, 10, 4, 1]
+ID: 38, numFeatures: 5
+	Feature vector: [1, 8, 10, 4, 1]
+ID: 39, numFeatures: 5
+	Feature vector: [1, 8, 10, 4, 1]
+ID: 40, numFeatures: 5
+	Feature vector: [1, 8, 10, 4, 1]
+ID: 41, numFeatures: 5
+	Feature vector: [1, 8, 10, 4, 1]
+ID: 42, numFeatures: 5
+	Feature vector: [1, 8, 10, 4, 1]
+ID: 43, numFeatures: 5
+	Feature vector: [1, 8, 10, 4, 1]
+ID: 44, numFeatures: 5
+	Feature vector: [1, 8, 10, 4, 1]
+ID: 45, numFeatures: 5
+	Feature vector: [1, 8, 10, 4, 1]
+ID: 46, numFeatures: 5
+	Feature vector: [1, 8, 10, 4, 1]
+ID: 47, numFeatures: 5
+	Feature vector: [1, 8, 10, 4, 1]
+ID: 48, numFeatures: 5
+	Feature vector: [1, 8, 10, 4, 1]
+ID: 49, numFeatures: 5
+	Feature vector: [1, 8, 10, 4, 1]
+ID: 50, numFeatures: 5
+	Feature vector: [1, 8, 10, 4, 1]
+ID: 51, numFeatures: 5
+	Feature vector: [1, 8, 10, 4, 1]
+ID: 52, numFeatures: 5
+	Feature vector: [1, 8, 10, 4, 1]
+ID: 53, numFeatures: 5
+	Feature vector: [1, 8, 10, 4, 1]
+ID: 54, numFeatures: 5
+	Feature vector: [1, 8, 10, 4, 1]
+ID: 55, numFeatures: 5
+	Feature vector: [1, 8, 10, 4, 1]
+ID: 56, numFeatures: 5
+	Feature vector: [1, 8, 10, 4, 1]
+ID: 57, numFeatures: 5
+	Feature vector: [1, 8, 10, 4, 1]
+ID: 58, numFeatures: 5
+	Feature vector: [1, 8, 10, 4, 1]
+ID: 59, numFeatures: 5
+	Feature vector: [5, 7, 3, 2, 7]
+ID: 60, numFeatures: 5
+	Feature vector: [1, 8, 10, 4, 1]
+ID: 61, numFeatures: 5
+	Feature vector: [1, 8, 10, 4, 1]
+ID: 62, numFeatures: 5
+	Feature vector: [1, 8, 10, 4, 1]
+ID: 63, numFeatures: 5
+	Feature vector: [1, 8, 10, 4, 1]
+ID: 64, numFeatures: 5
+	Feature vector: [1, 8, 10, 4, 1]
+ID: 65, numFeatures: 5
+	Feature vector: [1, 8, 10, 4, 1]
+ID: 66, numFeatures: 5
+	Feature vector: [1, 8, 10, 4, 1]
+ID: 67, numFeatures: 5
+	Feature vector: [1, 8, 10, 4, 1]
+ID: 68, numFeatures: 5
+	Feature vector: [9, 4, 9, 5, 5]
+ID: 69, numFeatures: 5
+	Feature vector: [9, 4, 9, 5, 5]
+ID: 70, numFeatures: 5
+	Feature vector: [1, 8, 10, 4, 1]
+ID: 71, numFeatures: 5
+	Feature vector: [1, 8, 10, 4, 1]
+ID: 72, numFeatures: 5
+	Feature vector: [1, 8, 10, 4, 1]
+ID: 73, numFeatures: 5
+	Feature vector: [1, 8, 10, 4, 1]
+ID: 74, numFeatures: 5
+	Feature vector: [1, 8, 10, 4, 1]
+ID: 75, numFeatures: 5
+	Feature vector: [1, 8, 10, 4, 1]
+ID: 76, numFeatures: 5
+	Feature vector: [1, 8, 10, 4, 1]
+ID: 77, numFeatures: 5
+	Feature vector: [1, 8, 10, 4, 1]
+ID: 78, numFeatures: 5
+	Feature vector: [9, 4, 9, 5, 5]
+ID: 79, numFeatures: 5
+	Feature vector: [9, 4, 9, 5, 5]
+ID: 80, numFeatures: 5
+	Feature vector: [1, 8, 10, 4, 1]
+ID: 81, numFeatures: 5
+	Feature vector: [1, 8, 10, 4, 1]
+ID: 82, numFeatures: 5
+	Feature vector: [1, 8, 10, 4, 1]
+ID: 83, numFeatures: 5
+	Feature vector: [1, 8, 10, 4, 1]
+ID: 84, numFeatures: 5
+	Feature vector: [1, 8, 10, 4, 1]
+ID: 85, numFeatures: 5
+	Feature vector: [1, 8, 10, 4, 1]
+ID: 86, numFeatures: 5
+	Feature vector: [1, 8, 10, 4, 1]
+ID: 87, numFeatures: 5
+	Feature vector: [9, 4, 9, 5, 5]
+ID: 88, numFeatures: 5
+	Feature vector: [9, 4, 9, 5, 5]
+ID: 89, numFeatures: 5
+	Feature vector: [7, 7, 6, 4, 10]
+ID: 90, numFeatures: 5
+	Feature vector: [1, 8, 10, 4, 1]
+ID: 91, numFeatures: 5
+	Feature vector: [1, 8, 10, 4, 1]
+ID: 92, numFeatures: 5
+	Feature vector: [1, 8, 10, 4, 1]
+ID: 93, numFeatures: 5
+	Feature vector: [1, 8, 10, 4, 1]
+ID: 94, numFeatures: 5
+	Feature vector: [1, 8, 10, 4, 1]
+ID: 95, numFeatures: 5
+	Feature vector: [1, 8, 10, 4, 1]
+ID: 96, numFeatures: 5
+	Feature vector: [1, 8, 10, 4, 1]
+ID: 97, numFeatures: 5
+	Feature vector: [9, 4, 9, 5, 5]
+ID: 98, numFeatures: 5
+	Feature vector: [9, 4, 9, 5, 5]
+ID: 99, numFeatures: 5
+	Feature vector: [9, 4, 9, 5, 5]
