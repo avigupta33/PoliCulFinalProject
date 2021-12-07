@@ -38,7 +38,7 @@ class Experiment:
     def get_cat_string(self) -> str:
         # cat_string = f"nF{num_features}nT{num_traits}PAO{prop_agent_online}AOV{agent_online_val}w{wrap_str}o{onlineness}nR{num_rows}nC{num_cols}"
         # return f"nF{self.num_features}nT{self.num_traits}nS_min{self.min_sioa_cnt}max{self.max_sioa_cnt}PAO{self.prop_agent_online}AOV{self.agent_online_val}"
-       return f"nF{self.num_features}nT{self.num_traits}nS_min{self.min_sioa_cnt}max{self.max_sioa_cnt}PAO{self.prop_agent_online}AOV{self.agent_online_val}pat{self.patience}"
+       return f"nF{self.num_features}nT{self.num_traits}nS_min{self.min_sioa_cnt}max{self.max_sioa_cnt}PAO{self.prop_agent_online}AOV{self.agent_online_val}mf{self.max_frames}"
     
    
 

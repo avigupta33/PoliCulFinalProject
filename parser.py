@@ -38,7 +38,7 @@ def compute_num_uniq_cultures(filename):
     # print(cultures)
     return len(cultures)
 
-def parse(out_file, operation):
+def parse(out_file, operations):
     walk = os.walk("exports")
     fil_out = open(out_file, "w")
     for w in walk:
@@ -47,10 +47,13 @@ def parse(out_file, operation):
             for fil in w[2]:
                 if fil.startswith("id"):
                     path = w[0] + "/" + fil
-                    val = operation(path)
-                    fil_out.write(fil + ", " + str(val) + "\n")
+                    val_string = ""
+                    for operation in operations:
+                        val = operation(path)
+                        val_string += str(val) + ", "
+                    fil_out.write(fil + ", " + val_string + "\n")
 
 
 if __name__ == "__main__":
-    parse("avgs5.txt", compute_avg_ft_val)
+    parse("avgs5.txt", [compute_avg_ft_val, compute_num_uniq_cultures])
     # print(compute_num_uniq_cultures("exports/nF10nT10nS_min1max1PAO0.7AOV0.3/id2_nF10nT10nS_min1max1PAO0.7AOV0.3.txt"))
