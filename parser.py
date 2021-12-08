@@ -20,6 +20,29 @@ def load_ft_vecs(filename):
             vecs.append([int(val) for val in vec])
     return vecs
 
+def load_onlineness_and_ft_vecs(filename):
+    f = open(filename, "r")
+    lines = f.readlines()
+    vecs = []
+    tmp_list = []
+    for line in lines:
+        if "SIOA: True" in line:
+            # print("break case")
+            break
+        if "Row" in line and "onlineness" in line:
+            sp = line.split("onlineness:")
+            print(sp)
+
+        if line.startswith('\tFeature vector:'):
+            open_brace = line.index("[")
+            close_brace = line.index("]", open_brace)
+            vec = line[open_brace+1:close_brace]
+            vec = vec.replace(' ', '')  
+            vec = vec.split(",")    
+            vecs.append([int(val) for val in vec])
+    return vecs
+
+
 def flatten(l):
     return reduce(operator.concat, l)
     
@@ -50,10 +73,10 @@ def parse(out_file, operations):
                     val_string = ""
                     for operation in operations:
                         val = operation(path)
-                        val_string += str(val) + ", "
+                        val_string += f"{operation.__name__}: {str(val)}, "
                     fil_out.write(fil + ", " + val_string + "\n")
 
 
 if __name__ == "__main__":
-    parse("avgs5.txt", [compute_avg_ft_val, compute_num_uniq_cultures])
-    # print(compute_num_uniq_cultures("exports/nF10nT10nS_min1max1PAO0.7AOV0.3/id2_nF10nT10nS_min1max1PAO0.7AOV0.3.txt"))
+    parse("phase 5 pt 4 2-5.txt", [compute_avg_ft_val, compute_num_uniq_cultures])
+    # print(compute_num_uniq_cultures("exports/nF5nT15nS_min1max11PAO1AOV1mf1000000/id2_nF5nT15nS_min1max11PAO1AOV1mf1000000.txt"))

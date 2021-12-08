@@ -25,9 +25,10 @@ def display_model(model: Model):
 
 if __name__ == "__main__":
     experiment_list = [
-        Experiment(max_frames = 1000000, num_trials = 5, num_features = 15, num_traits = 15, prop_agent_online=pao/10, agent_online_val=aov/10, min_sioa_cnt=1, max_sioa_cnt=1) for pao in range(11) for aov in range(11)
-    ]
-
+        Experiment(max_frames = 1000000, num_trials = 20, num_features = 5, num_traits = 15, prop_agent_online= 0.5, agent_online_val= 0.2, min_sioa_cnt= sioa, max_sioa_cnt= sioa) for sioa in range(6)
+        ] + [Experiment(max_frames = 1000000, num_trials = 20, num_features = 5, num_traits = 15, prop_agent_online= 0.2, agent_online_val= 0.5, min_sioa_cnt= sioa, max_sioa_cnt= sioa) for sioa in range(6)
+        ]
+        
     for experiment in experiment_list:
         models = experiment.generate_models()
         cat_string = experiment.get_cat_string()
